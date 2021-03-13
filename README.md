@@ -7,4 +7,5 @@
 5. @Risoxas David
 6. @Towerstt Hugo
 7. @MarioAndradeV Mario
-8. @BetoMonster BeTo
+8. @eduardogrq Eduardo
+9. @BetoMonster BeTo
