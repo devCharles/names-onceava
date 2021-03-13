@@ -6,4 +6,5 @@
 4. @AngelVallem Angel
 5. @Risoxas David
 6. @Towerstt Hugo
-7. @eduardogrq Eduardo
+7. @MarioAndradeV Mario
+8. @eduardogrq Eduardo
