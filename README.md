@@ -14,4 +14,9 @@
 >>>>>>> e4347ca79bc0bf8b8feba4bd7b689bb37d32f57c
 =======
 7. @MarioAndradeV Mario
+<<<<<<< HEAD
 >>>>>>> 062c73860965beb34a8ef237a04bc164cbf526e1
+=======
+8. @eduardogrq Eduardo
+9. @MarianaLimon Limon
+>>>>>>> c46ce9b1e505881881283e557cbe92ad89f78534
