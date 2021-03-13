@@ -19,4 +19,8 @@
 =======
 8. @eduardogrq Eduardo
 9. @MarianaLimon Limon
+<<<<<<< HEAD
 >>>>>>> c46ce9b1e505881881283e557cbe92ad89f78534
+=======
+10. @jedmundo-rm Jaime
+>>>>>>> d6baf1f483875d19d252582d3667d2197fe8e1a8
