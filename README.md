@@ -11,5 +11,8 @@
 9. @MarianaLimon Limon
 10. @jedmundo-rm Jaime
 11. @jonathan-quiroz jonathan
+12. @rodrigojauregui rodrigo
+13. @JavoADv Javier
+14. @aaronbarcenas Aaron
+15. @Brisset Corcino
 
-13. @Brisset Corcino
