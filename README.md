@@ -13,7 +13,4 @@
 11. @jonathan-quiroz jonathan
 12. @rodrigojauregui rodrigo
 13. @JavoADv Javier
-<<<<<<< HEAD
-=======
 14. @aaronbarcenas Aaron
->>>>>>> 2996401652758f5e8afd16d142c6324279b2b77f
