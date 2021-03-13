@@ -10,8 +10,6 @@
 8. @eduardogrq Eduardo
 9. @MarianaLimon Limon
 10. @jedmundo-rm Jaime
-<<<<<<< HEAD
-11. @Wectrex Walter
-=======
 11. @jonathan-quiroz jonathan
+12. @rodrigojauregui rodrigo
 
