@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-=======
 1. @devCharles Charles
 2. @DemianMtz1 Demian
 3. @mgbelmont Mariana
@@ -14,8 +12,7 @@
 11. @jonathan-quiroz jonathan
 12. @rodrigojauregui rodrigo
 13. @JavoADv Javier
-<<<<<<< HEAD
 
 =======
 14. @aaronbarcenas Aaron
->>>>>>> 2996401652758f5e8afd16d142c6324279b2b77f
+15. @Wectrex Walter
