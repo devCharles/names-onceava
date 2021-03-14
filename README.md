@@ -9,5 +9,9 @@
 7. @MarioAndradeV Mario
 8. @eduardogrq Eduardo
 9. @MarianaLimon Limon
-11. @silvdeastora silvi
-
+10. @jedmundo-rm Jaime
+11. @jonathan-quiroz jonathan
+12. @rodrigojauregui rodrigo
+13. @JavoADv Javier
+14. @aaronbarcenas Aaron
+15. @silvideastora silvi
