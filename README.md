@@ -14,5 +14,8 @@
 12. @rodrigojauregui rodrigo
 13. @JavoADv Javier
 14. @aaronbarcenas Aaron
-15. @Brisset Corcino
+15. @BetoMonster BeTo
+16. @Taquito404 Vero
+17. @Wectrex Walter
+18. @Brisset Corcino
 
