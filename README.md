@@ -16,4 +16,5 @@
 14. @aaronbarcenas Aaron
 15. @BetoMonster BeTo
 16. @Taquito404 Vero
-17. @silvideastora silvi
+17. @Wectrex Walter
+18. @silvideastora silvi
